@@ -1,0 +1,44 @@
+.heading {
+  color: rgb(90, 197, 27);
+  text-align: center;
+}
+.my_para {
+  text-indent: 30px;
+  /* text-indent: 10cm; */
+  /* letter-spacing: 20px; */
+  word-spacing: 30px;
+  line-height: 20px;
+  color: red;
+}
+
+.main-section {
+  height: 500px;
+  width: 300px;
+  border: 2px solid red;
+}
+.second_para {
+  /* white-space: pre; */
+  /* white-space: nowrap; */
+  /* white-space: wrap; */
+}
+.html_abb {
+  text-decoration-line: overline;
+  text-decoration-style: dashed;
+  text-decoration-color: blue;
+  text-decoration-thickness: 3px;
+
+  /* text-transform: lowercase; */
+  /* text-transform: uppercase; */
+  text-transform: capitalize;
+}
+
+.main-container {
+  height: 200px;
+  width: 200px;
+  border: 2px solid red;
+}
+.main-para {
+  padding: 10px;
+  padding-left: 20px;
+  border: 2px solid rgb(23, 41, 175);
+}
