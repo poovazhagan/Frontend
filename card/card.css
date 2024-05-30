@@ -1,0 +1,21 @@
+.card-container {
+  /* height: 249px; */
+  width: 195px;
+  border: 1px solid red;
+  padding: 10px;
+}
+.read-more-btn {
+  background-color: black;
+  color: white;
+  border-radius: 17px;
+  padding: 5px;
+  padding-left: 25px;
+  padding-right: 25px;
+  border: none;
+}
+.fa-twitter {
+  margin-left: 71px;
+}
+.twitter_heading {
+  text-align: center;
+}
