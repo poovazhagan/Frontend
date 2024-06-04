@@ -1,0 +1,13 @@
+.container {
+  height: 500px;
+  width: 500px;
+  border: 1px solid red;
+  /* background-color: aqua; */
+  /* background: url(../images/nature.jpg); */
+  background-image: conic-gradient(rgb(223, 75, 75), rgb(196, 196, 127), rgb(178, 202, 178));
+}
+.my_para {
+  background-color: red;
+}
+.img-container {
+}

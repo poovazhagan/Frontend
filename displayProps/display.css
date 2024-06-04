@@ -1,0 +1,24 @@
+.main-container {
+  height: 350px;
+  width: 400px;
+  border: 1px solid red;
+}
+.box {
+  height: 100px;
+  width: 100px;
+  color: white;
+}
+.box1 {
+  background-color: blue;
+  /* visibility: visible; */
+  /* visibility: hidden; */
+
+  /* display: none; */
+  /* display: block; */
+}
+.box2 {
+  background-color: orange;
+}
+.box3 {
+  background-color: aqua;
+}
